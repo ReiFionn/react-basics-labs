@@ -29,7 +29,7 @@ function App() {
     title: "",
     description: "",
     deadline: "",
-    priority:""
+    priority:"Low"
   });
 
   const formChangeHandler = (event) => {
